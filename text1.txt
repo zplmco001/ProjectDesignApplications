@@ -1,2 +1,3 @@
 The first line
-The second line as you can see
+
+A new line from another branch
